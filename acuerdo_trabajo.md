@@ -28,3 +28,4 @@ Decisiones Técnicas: En caso de desacuerdo sobre cómo programar algo, se debat
 Firma Digital: La creación de este archivo y los commits asociados a él representan la firma electrónica de aceptación de todos los integrantes de este equipo
 Johan Rodriguez
 juan diego dimas
+jose castro
